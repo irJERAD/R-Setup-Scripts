@@ -14,8 +14,8 @@ Approaches:
 **TODO:**
 - Once multiple folders are complete, change readme into table of contents / interactive navigation
 - Create folder for All Inclusive setup which loads all libraries I use
-- Folders:
-[ ] Data Visualization
-[ ] Statistics / Machine Learning / Data Science
-[ ] Presentations / Interactive Apps / Shiny / Dashboards
-[ ] Big Data
+- Folders:  
+[ ] Data Visualization  
+[ ] Statistics / Machine Learning / Data Science  
+[ ] Presentations / Interactive Apps / Shiny / Dashboards  
+[ ] Big Data  
